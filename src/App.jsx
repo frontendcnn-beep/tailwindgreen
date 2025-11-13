@@ -8,7 +8,7 @@ function App() {
         Bem vindo
       </h1>
       <p>
-        Aqui segui o passo a passo da documentação para instalar o vite, para instalar o tailwind, para fazer subir os comitos e versionamento.
+        Aqui segui o passo a passo da documentação para instalar o vite, para instalar o tailwind, para fazer subir os comites e versionamento.
       </p>
     </>
   )
